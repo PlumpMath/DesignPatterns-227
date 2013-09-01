@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "BridgeDesignPattern\BridgeDesignPattern.csproj", "{19E3B0D9-EFF4-4882-B358-DEC4E1D66DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorDemo", "DecoratorDesignPattern\DecoratorDemo.csproj", "{389B0A50-745E-4A2B-8853-EC7670AA975B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{653A5661-5EF1-47D9-A5FA-B3B15CF3F103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeDesignPattern", "CompositeDesignPattern\CompositeDesignPattern.csproj", "{9DD53347-C27B-4A75-A8BE-16B49B5F56A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{1178E857-9A17-4DDC-9BCB-205254031F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{C87733F3-D67D-4E90-BD47-81C57845E1D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPatternCarExample", "VisitorPatternCarExample\VisitorPatternCarExample.csproj", "{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E3B0D9-EFF4-4882-B358-DEC4E1D66DD2}.Debug|x86.ActiveCfg = Debug|x86
+		{19E3B0D9-EFF4-4882-B358-DEC4E1D66DD2}.Debug|x86.Build.0 = Debug|x86
+		{19E3B0D9-EFF4-4882-B358-DEC4E1D66DD2}.Release|x86.ActiveCfg = Release|x86
+		{19E3B0D9-EFF4-4882-B358-DEC4E1D66DD2}.Release|x86.Build.0 = Release|x86
+		{389B0A50-745E-4A2B-8853-EC7670AA975B}.Debug|x86.ActiveCfg = Debug|x86
+		{389B0A50-745E-4A2B-8853-EC7670AA975B}.Debug|x86.Build.0 = Debug|x86
+		{389B0A50-745E-4A2B-8853-EC7670AA975B}.Release|x86.ActiveCfg = Release|x86
+		{389B0A50-745E-4A2B-8853-EC7670AA975B}.Release|x86.Build.0 = Release|x86
+		{653A5661-5EF1-47D9-A5FA-B3B15CF3F103}.Debug|x86.ActiveCfg = Debug|x86
+		{653A5661-5EF1-47D9-A5FA-B3B15CF3F103}.Debug|x86.Build.0 = Debug|x86
+		{653A5661-5EF1-47D9-A5FA-B3B15CF3F103}.Release|x86.ActiveCfg = Release|x86
+		{653A5661-5EF1-47D9-A5FA-B3B15CF3F103}.Release|x86.Build.0 = Release|x86
+		{9DD53347-C27B-4A75-A8BE-16B49B5F56A8}.Debug|x86.ActiveCfg = Debug|x86
+		{9DD53347-C27B-4A75-A8BE-16B49B5F56A8}.Debug|x86.Build.0 = Debug|x86
+		{9DD53347-C27B-4A75-A8BE-16B49B5F56A8}.Release|x86.ActiveCfg = Release|x86
+		{9DD53347-C27B-4A75-A8BE-16B49B5F56A8}.Release|x86.Build.0 = Release|x86
+		{1178E857-9A17-4DDC-9BCB-205254031F91}.Debug|x86.ActiveCfg = Debug|x86
+		{1178E857-9A17-4DDC-9BCB-205254031F91}.Debug|x86.Build.0 = Debug|x86
+		{1178E857-9A17-4DDC-9BCB-205254031F91}.Release|x86.ActiveCfg = Release|x86
+		{1178E857-9A17-4DDC-9BCB-205254031F91}.Release|x86.Build.0 = Release|x86
+		{C87733F3-D67D-4E90-BD47-81C57845E1D0}.Debug|x86.ActiveCfg = Debug|x86
+		{C87733F3-D67D-4E90-BD47-81C57845E1D0}.Debug|x86.Build.0 = Debug|x86
+		{C87733F3-D67D-4E90-BD47-81C57845E1D0}.Release|x86.ActiveCfg = Release|x86
+		{C87733F3-D67D-4E90-BD47-81C57845E1D0}.Release|x86.Build.0 = Release|x86
+		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Debug|x86.ActiveCfg = Debug|x86
+		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Debug|x86.Build.0 = Debug|x86
+		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Release|x86.ActiveCfg = Release|x86
+		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

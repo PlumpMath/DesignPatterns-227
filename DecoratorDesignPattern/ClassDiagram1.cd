@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DecoratorDemo.Objects.Component.Pizza" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\Component\Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.ConcreteComponents.LargePizza" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ConcreteComponents\LargePizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.ConcreteComponents.MediumPizza" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="DecoratorDemo.Objects.Component.Pizza" ManuallyRouted="true">
+      <Path>
+        <Point X="6.75" Y="1.062" />
+        <Point X="6.75" Y="1.357" />
+        <Point X="2.75" Y="1.357" />
+        <Point X="2.75" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ConcreteComponents\MediumPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.ConcreteComponents.SmallPizza" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ConcreteComponents\SmallPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.ConcreteDecorators.Cheese" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ConcreteDecorators\Cheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.ConcreteDecorators.Ham" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ConcreteDecorators\Ham.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.ConcreteDecorators.Peppers" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Objects\ConcreteDecorators\Peppers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorDemo.Objects.Decorator.PizzaDecorator">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Objects\Decorator\PizzaDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
