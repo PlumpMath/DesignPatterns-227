@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPatternCarExample", "VisitorPatternCarExample\VisitorPatternCarExample.csproj", "{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{91ACA68E-5615-4C7A-BB4B-20CA201880DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,6 +51,10 @@ Global
 		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Debug|x86.Build.0 = Debug|x86
 		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Release|x86.ActiveCfg = Release|x86
 		{58CC0B1D-99BF-4505-B2B1-F15CE7DC765F}.Release|x86.Build.0 = Release|x86
+		{91ACA68E-5615-4C7A-BB4B-20CA201880DF}.Debug|x86.ActiveCfg = Debug|x86
+		{91ACA68E-5615-4C7A-BB4B-20CA201880DF}.Debug|x86.Build.0 = Debug|x86
+		{91ACA68E-5615-4C7A-BB4B-20CA201880DF}.Release|x86.ActiveCfg = Release|x86
+		{91ACA68E-5615-4C7A-BB4B-20CA201880DF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
